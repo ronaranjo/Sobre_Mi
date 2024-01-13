@@ -36,10 +36,9 @@ Me gusta estar en constante aprendizaje de nuevas tecnologias, lenguajes o idiom
 
 
 <h2 align="left">Contactame:</h2>
-<p align="left">
-  <a href="www.linkedin.com/in/rodrigo-nicolás-naranjo-b51650231" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" /></a>
-</p>
+<a target="_blank" href="www.linkedin.com/in/rodrigo-nicolás-naranjo-b51650231"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:rodrigo.naranjo9922@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
