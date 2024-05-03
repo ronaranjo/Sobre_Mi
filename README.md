@@ -3,24 +3,35 @@
 <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <br> <h2> Sobre Mi</h2>
 
 <h3 >
-Soy Desarrollador Full-Stack con principal enfoque en Node.Js, React y Express entre otras tecnologias. Apasionado en proveer soluciones y transformar ideas de clientes en aplicaciones funcionales.
-Me gusta estar en constante aprendizaje de nuevas tecnologias, lenguajes o idiomas.
+Soy desarrollador full stack orientado a Node.Js y tecnologias inherentes, tales como React, Next.JS, Express.Js, Sequelize, SQL, PostgreSql, entre otras. 
+
+Mi pasion por el desarrollo, comenzo en la Universidad de Buenos Aires, donde tuve mi primer contacto con la programacion, y adquiri solidas bases en materia relacionada a Teoria de Algoritmos. Al unisono con la universidad, comence a desarrollar de manera autodidacta con HTML, CSS y Javascript, para luego comenzar mis primeros proyectos con frameworks como Angular y React. Hoy luego de años de desarrollo y varios proyectos soy capaz de llevar a cabo proyectos de una complejidad considerable, ademas de estar ya involucrado en un trabajo muy ambicioso, pues, ¡Los desafios tecnologicos son lo que me motivan en este rubro!
+
+Considero que la pericia tecnica de un desarrollador es de suma importancia, si, pero tambien lo es la buena comunicacion, trabajo en equipo y demas soft skills que contribuyan a un entorno de trabajo positivo. Considero que aporto tambien en ese sentido, gracias a un gran background en Servicios Publicos; el constante tratar con clientes y compañeros de trabajo me han dotado de buenas habilidades interpersonales. 
+
+Puedo aportar mucho mas que solo codigo a tu equipo!.
 </h3>
 
 - 📚 Formado en Universidad de Buenos Aires y SoyHenry
 - 🔭 Actualmente trabajando como freelance
-- 🌱 Aprendiendo Angular.Js e Ingles
+- 🌱 Aprendiendo Angular.Js
+- 🌱 Ingles B2, ¡Siempre trabajando por mejorarlo!
   
 <br>
 
 
 <h2> ¿Que es lo que hago?</h2>
 
-<h3>Hago realidad tus ideas</h3>
+<h3>Estoy para servirte</h3>
 
-- Desarrollo de aplicaciones web funcionales y responsivas.
-- Desarrollo de software a medida.
-- Proveer soluciones
+- Desarrollo de aplicaciones web funcionales y responsivas:
+    Puedo desarrollar esa web que necesita tu emprendimiento, con las funcionalidades que sean requeridas, 
+    y todo con un diseño de vanguardia y adaptable para dispositivos moviles.
+- Proveer soluciones:
+    Desde 0 o ya comenzado; puedo aportar codigo limpio, eficiente y versatil a tus proyectos, ¡Ademas de muchas ideas!.
+- Trabajo en equipo:
+    Siemrpe cordial y respetuoso, me gusta hacer de mis entornos laborales un lugar agradable para todos, la empatia y el respeto
+    son pilares fundamentales para entenderse entre compañeros de equipo.
 
 <br>
 
@@ -28,8 +39,9 @@ Me gusta estar en constante aprendizaje de nuevas tecnologias, lenguajes o idiom
 <h2> Tecnologias </h2>
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Sequelize](https://img.shields.io/badge/Sequelize-%23563D7C.svg?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Next.js](https://img.shields.io/badge/Next.js-%000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+ [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Sequelize](https://img.shields.io/badge/Sequelize-%23563D7C.svg?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) [![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MySQL](https://img.shields.io/badge/MySQL-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <br>
